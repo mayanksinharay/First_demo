@@ -2,4 +2,4 @@
 This is my first Git Repository
 
 <br>
-Author Mayank Sinharay 
+Author Mayank Sinha Ray 
